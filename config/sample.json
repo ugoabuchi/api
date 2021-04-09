@@ -1,0 +1,32 @@
+{
+	"env": "development",
+	"server": {
+		"ip": "127.0.0.1",
+		"port": "3010"
+	},
+	"auth": {
+		"jsonWebTokenSecret": "b443fbsf5dfsdfdssaa3ccc0b3e5"
+	},
+	"db": {
+		"mongo": {
+			"uri": "mongodb://sigui:xchp9@localhost:27017",
+			"dbName": "javat365"
+		}
+	},
+	"app": {
+		"clientId": "ffb2585f-11ff-4334-bc65-3cd82bd16855",
+		"clientSecret": "dJxz2n3BmXqBa~z6RL68q~2T170-s_3zNO"
+	},
+	"firebase": {
+		"type": "service_account",
+		"project_id": "javat365",
+		"private_key_id": "65b3187f344514222ba0cb06143c8b350a5042d9",
+		"private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCQBXnugcOMItmU\n/KXF67mD0m8ppTvGCa9xCRg8qGSY8UdE55AoTDsJM+xU8fL7ZeuXnezXvtJQidcf\nHU0T5TcruGLMVTL9XVt1+ZV3lsZZ1qXud/vUffLbIvNYsXOIHPYiOYjA5OVS6/gg\n28ubcc1gliAa9Yj++J2foG5nrSd6GKIWyyFuhOksM00TW7G4NYzt25xXV1O5HuOA\nam7+DZg3tCZvuFU1hZfXibujOx9Il9PWE2WsVUhtqoFPhnibJlHm26ju94a0xyGX\nBNywI1zZoRDm27UWBYu924jU63AO7/kHE2PMJSGZlSvdjT9IcUuxiMtGCy9+JvAj\nrmxHr3vBAgMBAAECgf8DL+T63saNCQ9AuVskEGbJbktJv3942Cl0CA5ZQCVMCt0g\n44OHcwz7ZgLBbDAeomGek5piJ0gHC6pqdv71qcBP8agQVqkv60/S1IaJFvUTl9/b\nA68AHxcdTcL7slYrBzkLKyGhUN0iTA+nWDXV1RJObXHGJvRG3eUDpHE6vGbI9ODz\n0BqXaEE4acG6ilnuItQhntmiZt2zqBwdudDbPMFySyNC8rcSmy3xgzLaG2234Xob\nyl0bH8zqq5xGBfzWwh6UifVTKxOA5n51dzUCvnJ+eWxp85ilzkUKZ0M5Igo4zoUA\nfdzPjPRAfVLqt9j6seJ3dwvcbwaZLVz3/K5sHGECgYEAwww6hyAEIyiXywF/m8DE\n/RsfzQaxu6IkwTyi7Ia580q9nPzQly5G/j1m4K+cJAT7zPUaGAZB6kk+mv9Kzc1C\n/1Tg33S6P6PmbJQlUFJesL1XcSsW/8A3tEL+pgENLK+NbVyQGQdoxhiSYvkmklRy\nYGyDJl4aoAdXFInUXZI3Z+ECgYEAvQcmkh8yyyQqkAms5d4wnZAJ6VHE2DMAOdie\nztaQJP4brxuCHYSG7OWVraI472IC9p4ECef7wfe+zABZ01JovBytZVHSZDh36y8P\nup9TlXRb4BiQZ2uUpvHu2xeHVDgeJCZGcPMGU+LGeGSegiPoBNpw/Au9/skGc5IY\nrIbHD+ECgYBhXuB1BqGqH6Cvop7e1XxB0uGsS9Q8lHR+11OKerOn5j8EeR1065Bb\nabHLJz/up2JA7ndJWQ5c9JXBcQMZ/IeeyfO8+hvkm2D0AX0jPQuydcOKZnWD1aS5\nY9yWaN332efjmZsCM7W1dxzVNgZwdKHoyyMp6z6ldyScxzXyRIVOYQKBgQCLqFDS\n/MHmXF4l9UAMxVBd2SG5hHRO179+/ZC3eMceza9efJBxhoy5UhZ4JrayBlPyKWUK\nfJ8A/C23QzsaanR/JyDlDsLG0QGofSi91SFH9qQ6uWtXPaCih3TV4lhV3PBH/Q9m\nO+ec6puAL7b8p9KwY0O+tF43dAaUNIiOTzWbgQKBgQCkNP0fjBjn7C1L2Kc2veZw\nYjYEVPVP5WyvJ0BcGzLA68B1KRiQ7gl/IvZPlZ9LYDTvkn9qW69Mub2NiLFSYLid\nzOn3dP6QeZM83kR6dg2HdJi217IZPpbyNu3APn2quiZrEXLXeueNQSKT/P6pc7nc\nE0ASe4SjO2KYedFluUuJeA==\n-----END PRIVATE KEY-----\n",
+		"client_email": "firebase-adminsdk-r0m0j@javat365.iam.gserviceaccount.com",
+		"client_id": "110342841626332070891",
+		"auth_uri": "https://accounts.google.com/o/oauth2/auth",
+		"token_uri": "https://oauth2.googleapis.com/token",
+		"auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+		"client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-r0m0j%40javat365.iam.gserviceaccount.com"
+	}
+}
